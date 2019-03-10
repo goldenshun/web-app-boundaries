@@ -1,5 +1,9 @@
-function Home() {
-  return <div>This is the Home page.</div>
-}
+import StandardLayout from 'common-ui/dist/components/layout/StandardLayout';
 
-export default Home
+const Home = () => (
+  <StandardLayout>
+    <div>This is the Home page.</div>
+  </StandardLayout>
+);
+
+export default Home;

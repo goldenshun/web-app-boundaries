@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/goldenshun/web-app-boundaries#readme",
   "dependencies": {
+    "common-ui": "../common-ui",
     "next": "8.0.3",
     "react": "16.8.4",
     "react-dom": "16.8.4"
