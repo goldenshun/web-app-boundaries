@@ -1,0 +1,30 @@
+{
+  "name": "dashboards",
+  "version": "1.0.0",
+  "description": "The area of the application that specializes in data visualization",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldenshun/web-app-boundaries.git"
+  },
+  "keywords": [
+    "now",
+    "nextjs",
+    "monorepo"
+  ],
+  "author": "Sean Connolly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goldenshun/web-app-boundaries/issues"
+  },
+  "homepage": "https://github.com/goldenshun/web-app-boundaries#readme",
+  "dependencies": {
+    "next": "8.0.3",
+    "react": "16.8.4",
+    "react-dom": "16.8.4"
+  }
+}
